@@ -8,6 +8,7 @@ public class Arithmatic {
         pw.println("Difference is: "+(a-b));
         pw.println("Multiplication is: "+(a*b));
         pw.println("Division is: "+(a/b));
+        pw.println("Modulo is: "+(a%b));
         pw.close();
     }
 }
